@@ -19,20 +19,6 @@
 
 ---
 
-## 🏆 Projects & Contributions
-
-### 1. **AI-Powered Hospital System Chatbot**
-- Technologies: Python, LangChain, Neo4j AuraDB, Streamlit
-
-### 2. **Formula1 Race Analysis**
-- Technologies: Azure, Databricks, PySpark, Power BI
-
-### 3. **Personalized Task Manager**
-- Technologies: Django, Python, REST API
-- [[Project Repo Link]](https://github.com/rujeetjahagirdar/django_todo.git)
-
----
-
 ## 💼 Work Experience
 
 **Big Data Engineer at Tata Consultancy Services (2019 - 2022)**  
