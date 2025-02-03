@@ -3,7 +3,6 @@
 🔭 I’m a Software Developer with experience in Python, SQL, JavaScript, Machine Learning  
 🌱 Currently enhancing my skills in JavaScript, Machine Learning, Computer Vision  
 👯 Looking for new opportunities in Software Development, Data Engineering, Machine Learning  
-💬 Ask me about [e.g., Python, Data Engineering, Backend Development]  
 📫 Reach me at [r1jahagirdar@gmail.com]  
 
 ---
